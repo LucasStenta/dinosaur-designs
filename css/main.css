@@ -7,8 +7,9 @@ img {
   width 100%;
 }
 h1, h2 {
-  color: #5d8432
+  color: #5d8432;
   text-transform: uppercase;
+  font-family: 'Patua One', sans-serif;
 }
 figcaption {
   font-size: .8rem;
